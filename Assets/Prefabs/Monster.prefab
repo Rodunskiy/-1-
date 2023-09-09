@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4108623347881203974}
   - component: {fileID: 6623426233386430539}
-  - component: {fileID: 3548570723049629232}
+  - component: {fileID: -6079628098799646918}
   m_Layer: 0
   m_Name: Monster
   m_TagString: Untagged
@@ -85,7 +85,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &3548570723049629232
+--- !u!114 &-6079628098799646918
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
